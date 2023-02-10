@@ -13,9 +13,9 @@
   "report_placeholder": "¿Por qué se debería revisar este mensaje?",
   "report_title": "Informe",
   "send_report": "Enviar",
-  "stop_tree": "Parar árbol",
+  "stop_tree": "Detener árbol",
   "submit_labels": "Enviar",
-  "tree_stopped": "Árbol parado {{id}}",
+  "tree_stopped": "Árbol detenido {{id}}",
   "view_user": "Ver usuario",
   "your_recent_messages": "Tus mensajes recientes"
 }
